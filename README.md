@@ -1,1 +1,1 @@
-# Roshan
+Hello my name is Roshan. I am 17 years old. I live in Ottawa, Canada. I enjoy coding and doing math. During my free time, I play soccer and basketball with different leagues. In the future, I plan to go to Ottawa University or Waterloo University for computer sciences.
